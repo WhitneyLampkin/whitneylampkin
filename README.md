@@ -1,3 +1,15 @@
+<h1 align="center">Hi 👋, I'm Whitney Lampkin</h1>
+<h3 align="center">Mother | Student | Software Engineer | Chess Enthusiast | Tennis Superstar</h3>
+
+Since you're here, have a look at what I'm learning at the moment:
+
+- 💻 Site Reliability Engineering, Kubernetes & Golang
+- 🎾 Forehand, Backhand, Serve, Volley & Chip
+- ⛪ Humility, Gentleness, Self-Control
+- 🏁 Chess Strategy & Tactics
+- 📚 GRE Prep
+
+✨ Always Be Curious ✨ Always Be Learning ✨ Always Be You ✨
 
 <!--
 ### Well, hello there.👋 
@@ -20,9 +32,6 @@ Since you're here, have a look at what I'm learning at the moment:
 
 ![WL's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhitneyLampkin&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhitneyLampkin)](https://github.com/WhitneyLampkin/github-readme-stats)
 -->
-
-<h1 align="center">Hi 👋, I'm Whitney Lampkin</h1>
-<h3 align="center">Mother | Student | Software Engineer | Chess Enthusiast | Tennis Superstar</h3>
 
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whitneylampkin&label=Profile%20views&color=0e75b6&style=flat" alt="whitneylampkin" /> </p>
