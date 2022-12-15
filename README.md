@@ -37,7 +37,7 @@ Since you're here, have a look at what I'm learning at the moment:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whitneylampkin&label=Profile%20views&color=0e75b6&style=flat" alt="whitneylampkin" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=whitneylampkin" alt="whitneylampkin" /></a> </p>
--->
+
 
 - 🔭 I’m currently working on **SRE for the Azure Kubernetes Service**
 
@@ -48,7 +48,7 @@ Since you're here, have a look at what I'm learning at the moment:
 - 📄 Know about my experiences [https://www.whitneylampkin.com](https://www.whitneylampkin.com)
 
 - ⚡ Fun fact **I hate coffee!**
-
+-->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/wlampkin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="wlampkin" height="30" width="40" /></a>
