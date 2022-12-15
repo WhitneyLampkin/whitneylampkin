@@ -1,6 +1,8 @@
 ### Well, hello there.👋 
 
-I wasn't expecting any company. Since you're here, have a look at what I'm learning at the moment:
+I wasn't expecting any company. 
+
+Since you're here, have a look at what I'm learning at the moment:
 
 - 💻 Site Reliability Engineering, Kubernetes & Golang
 - 🎾 Forehand, Backhand, Serve, Volley & Chip
@@ -10,8 +12,4 @@ I wasn't expecting any company. Since you're here, have a look at what I'm learn
 
 ✨ Always Be Curious ✨ Always Be Learning ✨ Always Be You ✨
 
-**Let's Link!**
-
-🔗 [Personal Website](whitneylampkin.com) 
-🔗 [LinkedIn](https://www.linkedin.com/in/whitneynl/) 
-🔗 [GitHub](github.com/whitneylampkin) 
+**Let's Link!** 🔗 [Personal Website](whitneylampkin.com) 🔗 [LinkedIn](https://www.linkedin.com/in/whitneynl/) 🔗 [GitHub](github.com/whitneylampkin) 
