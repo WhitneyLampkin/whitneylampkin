@@ -10,7 +10,6 @@ Since you're here, have a look at what I'm learning at the moment:
 - ⛪ Humility, Gentleness, Self-Control
 - 🏁 Chess Strategy & Tactics
 - 📚 GRE Prep
-- 
 
 ✨ Always Be Curious ✨ Always Be Learning ✨ Always Be You ✨
 
@@ -19,4 +18,4 @@ Since you're here, have a look at what I'm learning at the moment:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhitneyLampkin)](https://github.com/WhitneyLampkin/github-readme-stats)
 
-![Riz's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhitneyLampkin&show_icons=true&theme=dark)
+![WL's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhitneyLampkin&show_icons=true&theme=dark)
