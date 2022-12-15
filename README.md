@@ -12,4 +12,4 @@ Since you're here, have a look at what I'm learning at the moment:
 
 ✨ Always Be Curious ✨ Always Be Learning ✨ Always Be You ✨
 
-**Let's Link!** 🔗 [Personal Website](whitneylampkin.com) 🔗 [LinkedIn](https://www.linkedin.com/in/whitneynl/) 🔗 [GitHub](github.com/whitneylampkin) 
+**Let's Link!** 🔗 [Personal Website](www.whitneylampkin.com) 🔗 [LinkedIn](https://www.linkedin.com/in/whitneynl/) 🔗 [GitHub](github.com/whitneylampkin) 
