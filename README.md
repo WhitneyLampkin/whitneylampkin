@@ -1,16 +1,17 @@
-### Hi there 👋
+### Well, hello there.👋 
 
-<!--
-**WhitneyLampkin/whitneylampkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I wasn't expecting any company. Since you're here, have a look at what I'm learning at the moment:
 
-Here are some ideas to get you started:
+- 💻 Site Reliability Engineering, Kubernetes & Golang
+- 🎾 Forehand, Backhand, Serve, Volley & Chip
+- ⛪ Humility, Gentleness, Self-Control
+- 🏁 Chess Strategy & Tactics
+- 📚 GRE Prep
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ Always Be Curious ✨ Always Be Learning ✨ Always Be You ✨
+
+**Let's Link!**
+
+🔗 [Personal Website](whitneylampkin.com) 
+🔗 [LinkedIn](https://www.linkedin.com/in/whitneynl/) 
+🔗 [GitHub](github.com/whitneylampkin) 
