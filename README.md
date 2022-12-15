@@ -16,6 +16,4 @@ Since you're here, have a look at what I'm learning at the moment:
 **Let's Link!** 🔗 [Personal Website](https://www.whitneylampkin.com) 🔗 [LinkedIn](https://www.linkedin.com/in/whitneynl/) 🔗 [GitHub](https://github.com/whitneylampkin) 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhitneyLampkin)](https://github.com/WhitneyLampkin/github-readme-stats)
-
-![WL's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhitneyLampkin&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhitneyLampkin)](https://github.com/WhitneyLampkin/github-readme-stats)  ![WL's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhitneyLampkin&show_icons=true&theme=dark)
