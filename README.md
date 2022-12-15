@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Whitney Lampkin</h1>
 <h3 align="center">Mother | Student | Software Engineer | Chess Enthusiast | Tennis Superstar</h3>
 
+### About Me
+
 Since you're here, have a look at what I'm learning at the moment:
 
 - 💻 Site Reliability Engineering, Kubernetes & Golang
