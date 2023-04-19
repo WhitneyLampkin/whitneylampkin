@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Whitney Lampkin</h1>
-<h3 align="center">| Mother | Student | Software Engineer | Chess Enthusiast | Tennis Superstar |</h3>
+<h3 align="center">| Mother | Student | Software Engineer | Chess Enthusiast | eBiker | Tennis Superstar |</h3>
 
 ### About Me
 
