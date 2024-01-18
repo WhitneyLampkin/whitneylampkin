@@ -5,7 +5,7 @@
 
 Since you're here, have a look at what I'm learning at the moment:
 
-- 💻 Site Reliability Engineering, Kubernetes & Golang
+- 💻 Site Reliability Engineering, Kubernetes, Prometheus & Golang
 - 🎾 Forehand, Backhand, Serve, Volley & Chip
 - ⛪ Humility, Gentleness, Self-Control
 - 🏁 Chess Strategy & Tactics
