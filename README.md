@@ -7,7 +7,7 @@ Since you're here, have a look at what I'm learning at the moment:
 
 - 💻 Site Reliability Engineering, Kubernetes, Prometheus & Golang
 - 🎾 Forehand, Backhand, Serve, Volley & Chip
-- ⛪ Humility, Gentleness, Self-Control
+- ⛪ Humility, Gentleness, Discipline & Self-Control
 - 🏁 Chess Strategy & Tactics
 - 📚 Computer Science at Oregon State University (Go Beavers!)
 
