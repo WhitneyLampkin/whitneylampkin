@@ -9,7 +9,7 @@ Since you're here, have a look at what I'm learning at the moment:
 - 🎾 Forehand, Backhand, Serve, Volley & Chip
 - ⛪ Humility, Gentleness, Self-Control
 - 🏁 Chess Strategy & Tactics
-- 📚 GRE Prep
+- 📚 Computer Science at Oregon State University (Go Beavers!)
 
 ✨ Always Be Curious ✨ Always Be Learning ✨ Always Be You ✨
 
