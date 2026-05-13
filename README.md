@@ -9,7 +9,8 @@ Since you're here, have a look at what I'm learning at the moment:
 - 🎾 Forehand, Backhand, Serve, Volley & Chip
 - ⛪ Humility, Gentleness, Discipline & Self-Control
 - 🏁 Chess Strategy & Tactics
-- 📚 Computer Science at Oregon State University (Go Beavers!)
+- ✅ Computer Science at Oregon State University (Go Beavers!)
+- 📚 Masters of Artificial Intelligence at the University of Texas - Austin (Go Longhorns!)
 
 ✨ Always Be Curious ✨ Always Be Learning ✨ Always Be You ✨
 
